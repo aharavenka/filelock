@@ -1,5 +1,5 @@
 {
-    "name": "dorantor/filelock",
+    "name": "aharavenka/filelock",
     "description": "Simple php library providing OOP-interface to file locks.",
     "keywords": [
         "php",
@@ -7,7 +7,7 @@
         "file",
         "lock"
     ],
-    "homepage": "https://github.com/dorantor/filelock/",
+    "homepage": "https://github.com/aharavenka/filelock/",
     "type": "library",
     "license": "MIT",
     "require": {
